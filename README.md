@@ -44,7 +44,7 @@
 
 **ML Frameworks:** PyTorch · TensorFlow · JAX · XGBoost · HuggingFace · GNNs · Diffusion Models
 
-**MLOps & Cloud:** GCP (Vertex AI, TPUs) · AWS · Kubernetes · Docker · Kubeflow · MLflow · W&B · Spark · Kafka · Airflow
+**ML Infra:** GCP (Vertex AI, TPUs) · AWS · Kubernetes · Docker · Kubeflow · MLflow · W&B · Spark · Kafka · Airflow
 
 **Domains:** Physical AI & Robotics · Healthcare AI · Ads ML · Smart Manufacturing · Traffic/Mobility
 
